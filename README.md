@@ -11,7 +11,7 @@ Our problematic was, how could we enhance users experience to offer a more in de
 
 
 
-#Summary:
+# Summary:
 
 Users could use different criteria on a fully dynamic webpage who react to end users input and allowed them to apply different filters to specify their search.<br>
 
