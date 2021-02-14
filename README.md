@@ -1,3 +1,5 @@
+#<div align= "center">**UFOs**</div>
+
 # **Overview of Project:**
 
 Welcome to the world of unexplained moving project roaming the sky, especially sightings of unusual crafts thought to be extraterrestrial.<br>
@@ -8,7 +10,7 @@ Our problematic was, how could we enhance users experience to offer a more in de
 
 # **Results:**
 <br>
-Utilisation of the webpage is straightforward and easy to use, UFOs sightings are display in a table and users can scroll down through all of them or filter it at their convenience. There is five filter available:
+Utilisation of the webpage is straightforward and easy to use, UFOs sightings are display in a table and users can scroll down through all of them or filter it at their convenience. There is five filters available:
 
 - Date.
 - City.
@@ -17,13 +19,14 @@ Utilisation of the webpage is straightforward and easy to use, UFOs sightings ar
 - Shape.
   
 
-<br>
+
 ![](static/images/Table_Filter_Search.PNG)
 <br>
 Then they can apply any filter to narrow down their search, start with a specific date, after a city and so on.<br>
-We display below an example of an exploratory, as well as a more specific search to showcase the capabilities of our web page.<br>
+We display below an example of an exploratory search, as well as a more specific search to showcase the capabilities of our web page.<br>
 
 *Examples:*
+<br>
 Let start by searching all UFOs sightings for a specific date (January, 7th of 2010).
 <br>
 ![](static/images/Search_for_specific_date.PNG)
