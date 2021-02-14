@@ -7,7 +7,38 @@ We decided to create a webpage allowing users to easily interact with this infor
 Our problematic was, how could we enhance users experience to offer a more in depth analysis of UFOs sightings, helping them to narrow down their research on multiple criteria at the same time.<br>
 
 # **Results:**
+<br>
+Utilisation of the webpage is straightforward and easy to use, UFOs sightings are display in a table and users can scroll down through all of them or filter it at their convenience. There is five filter available:
 
+- Date.
+- City.
+- State.
+- Country.
+- Shape.
+  
+
+<br>
+![](static/images/Table_Filter_Search.PNG)
+<br>
+Then they can apply any filter to narrow down their search, start with a specific date, after a city and so on.<br>
+We display below an example of an exploratory, as well as a more specific search to showcase the capabilities of our web page.<br>
+
+*Examples:*
+Let start by searching all UFOs sightings for a specific date (January, 7th of 2010).
+<br>
+![](static/images/Search_for_specific_date.PNG)
+<br>
+Only sightings from the entered date are now display in the table. If users want to be more specific (get a specific city from this date), he can apply more filter.
+<br>
+![](static/images/Search_by_date_and_city.PNG)
+<br>
+The way the webpage is build, allow users to see which filter are still available by highlighting the border of the search placeholder.
+<br>
+![](static/images/Available_Filter.PNG)
+<br>
+If a user is already aware of all characteristics on a sightings, he can just input as much information as he knows and get the specific result on the table.
+<br>
+![](static/images/Complete_Search.PNG)
 
 
 
@@ -17,7 +48,7 @@ Our webpage is interactive, it could be use in an exploratory mode or with clear
 Users could use different criteria on a fully dynamic webpage who react to end users input and allowed them to apply filters to specify their search. They could make one selection and see the update results, then look through the results and get an idea for another filter to apply.<br>
 
 
-#### <u>Disadvantages:</u>
+<u>Disadvantages:</u>
 
 Some drawbacks could be pinpoint here:
  - Filter might be too specific and attended to a more knowledgeable public about UFOs and possibly be confusing for a casual user interacting with the webpage.<br>
@@ -26,7 +57,7 @@ Some drawbacks could be pinpoint here:
    - GoogleAppEngine. 
    - GitHub.
 
-#### <u>Recommendations:</u>
+<u>Recommendations:</u>
 
 As it is, the webpage while working powerfully and allowing users to filter they search, some improvements can be added:<br>
 
