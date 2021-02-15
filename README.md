@@ -70,9 +70,9 @@ As it is, the webpage while working powerfully and allowing users to filter they
   - More countries to filter from.
   - A wider time range.
   - More cities.
-<br>
-- As more data will be incorporated, we should optimize our page speed to ensure an interrupting experience for the user and improve the load time of the webpage.<br>
-- We could also add a button underneath the Filter Search to allow users to refresh all entered filters by a click instead of having to manually erase their input.
+
+-  As more data will be incorporated, we should optimize our page speed to ensure an interrupting experience for the user and improve the load time of the webpage.<br>
+-  We could also add a button underneath the Filter Search to allow users to refresh all entered filters by a click instead of having to manually erase their input.
 
 
 
