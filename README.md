@@ -65,7 +65,7 @@ Some drawbacks could be pinpoint here:
 As it is, the webpage while working powerfully and allowing users to filter they search, some improvements can be added:<br>
 
 - This site only interact with the data we input when creating it. Setting up a data pipeline (web-scraping for example) to feed it could offer our users up-to-date and a wider range of information on UFOs sightings:
-<br>
+
   *Examples:*
   - More countries to filter from.
   - A wider time range.
