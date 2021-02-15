@@ -1,4 +1,4 @@
-<div align="center"<font size = "10">UFOs</font></div>
+<div align="center"><font size = "100">UFOs</font></div>
 
 # **Overview of Project:**
 
